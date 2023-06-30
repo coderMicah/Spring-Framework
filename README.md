@@ -1,6 +1,6 @@
 # Dependency Injection Example
 
-This project is an example of how to use dependency injection in Java using the Spring Framework. The project uses both XML-based and annotation-based configuration for dependency injection and also demonstrates the use of the **@Autowired** annotation.
+This project is an example of how to use dependency injection in Java using the Spring Framework. The project uses both XML-based  configuration for dependency injection and also demonstrates the use of the **@Autowired** annotation.
 
 ## What is Dependency Injection?
 
